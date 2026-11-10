@@ -1,5 +1,9 @@
-# My LinkedIn Profile
+My LinkedIn Profile
 
-Connect with me professionally on LinkedIn.
+👋 Welcome to my professional profile!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+Connect with me on LinkedIn to explore my professional journey, projects, skills, and collaborations.
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/sheikh-basharat-389980225/)
+
+LinkedIn: https://www.linkedin.com/in/sheikh-basharat-389980225/
